@@ -1,5 +1,5 @@
 '''Write a python program to find the longest words. '''
-sentence = "I my name is sneha timra."
+sentence = "I my name is Anshul Jain ."
 words = sentence.split()
 longest = ""
 for i in words:
